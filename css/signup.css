@@ -1,3 +1,23 @@
-.k_signup{
-    border: 2px solid #000;
+.k_z_index{
+    height: 350px;
+    z-index: 1200;
+    position: relative;
+}
+.k_or{
+    z-index: 1500;
+    position: absolute;
+    top: 140px;
+    left: 97%;
+}
+.k_hover:hover {
+    color: #555555 !important;
+}
+.text_size{
+    font-size:0.7em;
+}
+.font_family{
+    font-family: helvetica,arial,sans-serif;
+}
+.d-grid,gap-2,mt-1{
+    font-size:0.9em;
 }
