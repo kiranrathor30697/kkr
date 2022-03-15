@@ -29,3 +29,30 @@
         border:0px;
         }    
     }
+@media only screen and (max-width: 450px) {
+    .container,k_box,mt-5,row,offset-3{
+        display: none;
+        }   
+    }
+@media only screen and (min-width: 450px) {
+    .text-center,error_msg{
+        display: none;
+        }   
+    }
+@media only screen and (max-width: 767px) {
+    .col-12,col-md-6,col-sm-12,mt-5,k_z_index,border-end{
+        height:50%;
+        border:0px !important;
+        }    
+    }
+@media only screen and (max-width: 767px) {
+    .container,k_box,mt-5,row,offset-3{
+        border:0px;
+        margin:0px auto;
+        }   
+    }    
+@media only screen and (max-width: 767px) {
+    body{
+        margin:0px;
+        }  
+    }    
