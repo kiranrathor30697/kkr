@@ -7,7 +7,7 @@
     z-index: 1500;
     position: absolute;
     top: 140px;
-    left: 97%;
+    left: 95%;
 }
 .k_hover:hover {
     color: #555555 !important;
@@ -21,3 +21,11 @@
 .d-grid,gap-2,mt-1{
     font-size:0.9em;
 }
+@media only screen and (max-width: 767px) {
+    .k_or{
+        display: none;
+        }
+    .k_z_index{
+        border:0px;
+        }    
+    }
