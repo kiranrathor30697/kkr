@@ -40,7 +40,10 @@
     .col-12,col-md-6,col-sm-12,mt-5,k_z_index,border-end{
         height:50%;
         border:0px !important;
-        }    
+        }
+    .k_box,ps-2,pt-1,rounded-1{
+        text-align:center !important;
+        }        
     }
 /* @media only screen and (max-width: 767px) {
     container{
