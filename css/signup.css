@@ -54,7 +54,7 @@
     } */
 @media only screen and (max-width: 767px) {
     .w-50,p-0k_box,mt-5,row,offset-3{
-        width: 100%;
+        width: 100% !important;
         border:0px;
         offset:none;
         margin: 0px auto !important;
