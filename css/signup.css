@@ -7,7 +7,7 @@
     z-index: 1500;
     position: absolute;
     top: 140px;
-    left: 95%;
+    left: 96%;
 }
 .k_hover:hover {
     color: #555555 !important;
@@ -23,7 +23,7 @@
 }
 @media only screen and (max-width: 767px) {
     .k_or{
-        display: none;
+        visibility:hidden;
         }    
     }
 @media only screen and (max-width: 300px) {
@@ -42,16 +42,16 @@
         border:0px !important;
         }    
     }
-@media only screen and (max-width: 767px) {
+/* @media only screen and (max-width: 767px) {
     container{
         padding:0px !important;
-    }  
-    }
-@media only screen and (max-width: 500px) {
+        }  
+    } */
+/* @media only screen and (max-width: 500px) {
     container{
-        display:none;
+        visibility:hidden;
         }    
-    }
+    } */
 @media only screen and (max-width: 767px) {
     .w-50,p-0k_box,mt-5,row,offset-3{
         width: 100%;
