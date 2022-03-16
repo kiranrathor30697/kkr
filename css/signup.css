@@ -62,5 +62,8 @@
         offset:none;
         margin: 0px auto !important;
         padding: 0px !important;
-        }   
+        }
+    body{
+        width: 100% !important
+    }   
     }     
