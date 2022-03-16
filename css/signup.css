@@ -40,30 +40,25 @@
     .col-12,col-md-6,col-sm-12,mt-5,k_z_index,border-end{
         height:50%;
         border:0px !important;
+        padding:0px !important;
         }
     .k_box,ps-2,pt-1,rounded-1{
         text-align:center !important;
         }        
     }
-/* @media only screen and (max-width: 767px) {
-    container{
-        padding:0px !important;
-        }  
-    } */
-/* @media only screen and (max-width: 500px) {
-    container{
-        visibility:hidden;
-        }    
-    } */
 @media only screen and (max-width: 767px) {
     .w-50,p-0k_box,mt-5,row,offset-3{
-        width: 100% !important;
+        width: 87% !important;
         border:0px;
         offset:none;
         margin: 0px auto !important;
         padding: 0px !important;
         }
-    body{
-        width: 100% !important
-    }   
+      body{
+        width: 100% !important;
+        margin: 0px !important;
+        }
+    /*.p-2,k_top{
+        padding: 0px !important;
+    }  */  
     }     
